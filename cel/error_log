@@ -1,0 +1,804 @@
+[02-Apr-2019 17:21:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexionmosha.php on line 10
+[02-Apr-2019 17:21:22 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 12
+[02-Apr-2019 17:21:22 UTC] PHP Notice:  Undefined index: correo in /home/abecode/pontechucho.com/cel/registro.php on line 13
+[02-Apr-2019 17:21:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 20
+[02-Apr-2019 17:23:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Apr-2019 17:23:38 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 24
+[02-Apr-2019 17:23:38 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 25
+[02-Apr-2019 17:23:38 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 26
+[02-Apr-2019 17:23:38 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 27
+[02-Apr-2019 17:23:38 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 28
+[02-Apr-2019 17:23:38 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 29
+[02-Apr-2019 17:23:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[02-Apr-2019 17:27:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Apr-2019 17:27:31 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 24
+[02-Apr-2019 17:27:31 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 25
+[02-Apr-2019 17:27:31 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 26
+[02-Apr-2019 17:27:31 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 27
+[02-Apr-2019 17:27:31 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 28
+[02-Apr-2019 17:27:31 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 29
+[02-Apr-2019 17:27:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[02-Apr-2019 17:30:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Apr-2019 17:30:02 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 24
+[02-Apr-2019 17:30:02 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 25
+[02-Apr-2019 17:30:02 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 26
+[02-Apr-2019 17:30:02 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 27
+[02-Apr-2019 17:30:02 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 28
+[02-Apr-2019 17:30:02 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 29
+[02-Apr-2019 17:30:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[02-Apr-2019 17:32:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Apr-2019 17:32:48 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 24
+[02-Apr-2019 17:32:48 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 25
+[02-Apr-2019 17:32:48 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 26
+[02-Apr-2019 17:32:48 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 27
+[02-Apr-2019 17:32:48 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 28
+[02-Apr-2019 17:32:48 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 29
+[02-Apr-2019 17:32:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[02-Apr-2019 17:35:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Apr-2019 17:35:10 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 25
+[02-Apr-2019 17:35:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[02-Apr-2019 17:45:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Apr-2019 17:45:46 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 25
+[02-Apr-2019 17:45:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[02-Apr-2019 17:48:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Apr-2019 17:48:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[05-Apr-2019 05:13:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Apr-2019 05:13:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[05-Apr-2019 05:14:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Apr-2019 05:14:01 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 24
+[05-Apr-2019 05:14:01 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 25
+[05-Apr-2019 05:14:01 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 26
+[05-Apr-2019 05:14:01 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 27
+[05-Apr-2019 05:14:01 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 28
+[05-Apr-2019 05:14:01 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 29
+[05-Apr-2019 05:14:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[07-Apr-2019 07:28:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Apr-2019 07:28:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[07-Apr-2019 07:28:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Apr-2019 07:28:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[10-Apr-2019 13:55:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Apr-2019 13:55:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[11-Apr-2019 21:34:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Apr-2019 21:34:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[11-Apr-2019 21:35:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Apr-2019 21:35:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[11-Apr-2019 21:35:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Apr-2019 21:35:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[11-Apr-2019 21:39:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Apr-2019 21:39:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[11-Apr-2019 21:40:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Apr-2019 21:40:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[11-Apr-2019 21:40:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Apr-2019 21:40:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[13-Apr-2019 01:00:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Apr-2019 01:00:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 35
+[13-Apr-2019 01:25:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Apr-2019 01:25:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Apr-2019 01:26:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Apr-2019 01:26:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Apr-2019 01:27:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Apr-2019 01:27:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Apr-2019 01:28:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Apr-2019 01:28:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Apr-2019 01:29:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Apr-2019 01:29:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Apr-2019 21:17:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Apr-2019 21:17:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Apr-2019 22:30:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Apr-2019 22:30:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[14-May-2019 16:37:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[14-May-2019 16:37:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[14-May-2019 17:21:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[14-May-2019 17:21:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[14-May-2019 17:57:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[14-May-2019 17:57:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[14-May-2019 20:40:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[14-May-2019 20:40:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-May-2019 20:28:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-May-2019 20:28:09 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[21-May-2019 20:28:09 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[21-May-2019 20:28:09 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[21-May-2019 20:28:09 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[21-May-2019 20:28:09 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[21-May-2019 20:28:09 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[21-May-2019 20:28:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-May-2019 20:28:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-May-2019 20:28:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[23-May-2019 21:41:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[23-May-2019 21:41:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[23-May-2019 21:42:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[23-May-2019 21:42:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[23-May-2019 21:44:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[23-May-2019 21:44:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[23-May-2019 21:55:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[23-May-2019 21:55:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[26-May-2019 06:03:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[26-May-2019 06:03:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[31-May-2019 17:56:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[31-May-2019 17:56:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[31-May-2019 17:56:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[31-May-2019 17:56:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Jun-2019 16:25:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Jun-2019 16:25:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[19-Jun-2019 13:15:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[19-Jun-2019 13:15:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[19-Jun-2019 13:44:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[19-Jun-2019 13:44:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Jun-2019 21:19:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Jun-2019 21:19:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Jun-2019 00:30:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-Jun-2019 00:30:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-Jul-2019 16:04:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Jul-2019 16:04:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-Jul-2019 16:57:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Jul-2019 16:57:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[07-Jul-2019 04:21:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Jul-2019 04:21:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[11-Aug-2019 20:13:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Aug-2019 20:13:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[07-Sep-2019 16:31:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Sep-2019 16:31:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Sep-2019 19:09:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Sep-2019 19:09:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Sep-2019 19:10:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Sep-2019 19:10:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Sep-2019 01:07:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Sep-2019 01:07:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Sep-2019 19:39:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Sep-2019 19:39:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Sep-2019 20:39:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Sep-2019 20:39:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Sep-2019 20:41:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Sep-2019 20:41:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[11-Sep-2019 15:57:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Sep-2019 15:57:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[11-Sep-2019 15:57:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Sep-2019 15:57:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[11-Sep-2019 19:57:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Sep-2019 19:57:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[11-Sep-2019 22:51:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Sep-2019 22:51:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Sep-2019 07:09:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Sep-2019 07:09:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Sep-2019 08:55:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Sep-2019 08:55:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Sep-2019 08:55:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Sep-2019 08:55:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Sep-2019 08:56:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Sep-2019 08:56:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Sep-2019 08:56:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Sep-2019 08:56:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Sep-2019 09:52:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Sep-2019 09:52:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Sep-2019 14:48:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Sep-2019 14:48:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Sep-2019 19:46:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Sep-2019 19:46:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Sep-2019 18:58:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Sep-2019 18:58:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Sep-2019 02:57:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Sep-2019 02:57:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Sep-2019 21:54:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Sep-2019 21:54:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Sep-2019 22:11:23 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Sep-2019 22:11:23 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Sep-2019 22:15:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Sep-2019 22:15:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Sep-2019 22:22:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Sep-2019 22:22:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Sep-2019 22:25:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Sep-2019 22:25:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Sep-2019 14:43:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-Sep-2019 14:43:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[22-Sep-2019 16:15:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[22-Sep-2019 16:15:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[24-Sep-2019 13:46:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[24-Sep-2019 13:46:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[24-Sep-2019 17:51:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[24-Sep-2019 17:51:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[25-Sep-2019 02:44:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[25-Sep-2019 02:44:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 14:36:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 14:36:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 14:36:50 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 14:36:50 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 14:37:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 14:37:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 14:37:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 14:37:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 14:38:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 14:38:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 14:38:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 14:38:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 14:39:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 14:39:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 14:40:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 14:40:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 14:46:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 14:46:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 18:38:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 18:38:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 19:13:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 19:13:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 19:23:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 19:23:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 19:25:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 19:25:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Sep-2019 22:32:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Sep-2019 22:32:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[29-Sep-2019 20:38:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[29-Sep-2019 20:38:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[29-Sep-2019 20:38:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[29-Sep-2019 20:38:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[30-Sep-2019 04:25:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[30-Sep-2019 04:25:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[30-Sep-2019 04:25:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[30-Sep-2019 04:25:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[30-Sep-2019 22:27:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[30-Sep-2019 22:27:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[30-Sep-2019 22:27:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[30-Sep-2019 22:27:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Oct-2019 00:52:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Oct-2019 00:52:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Oct-2019 19:22:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Oct-2019 19:22:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-Oct-2019 17:59:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Oct-2019 17:59:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-Oct-2019 18:05:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Oct-2019 18:05:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-Oct-2019 18:05:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Oct-2019 18:05:34 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[05-Oct-2019 18:05:34 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[05-Oct-2019 18:05:34 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[05-Oct-2019 18:05:34 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[05-Oct-2019 18:05:34 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[05-Oct-2019 18:05:34 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[05-Oct-2019 18:05:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-Oct-2019 18:05:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Oct-2019 18:05:35 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[05-Oct-2019 18:05:35 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[05-Oct-2019 18:05:35 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[05-Oct-2019 18:05:35 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[05-Oct-2019 18:05:35 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[05-Oct-2019 18:05:35 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[05-Oct-2019 18:05:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[07-Oct-2019 13:51:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Oct-2019 13:51:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[07-Oct-2019 18:59:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Oct-2019 18:59:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Oct-2019 02:51:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Oct-2019 02:51:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Oct-2019 13:58:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Oct-2019 13:58:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Oct-2019 22:43:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Oct-2019 22:43:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[15-Oct-2019 14:38:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[15-Oct-2019 14:38:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Oct-2019 00:27:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Oct-2019 00:27:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Oct-2019 20:39:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Oct-2019 20:39:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Oct-2019 20:40:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Oct-2019 20:40:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Oct-2019 20:41:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Oct-2019 20:41:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Oct-2019 20:42:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Oct-2019 20:42:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Oct-2019 20:09:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Oct-2019 20:09:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[23-Oct-2019 03:01:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[23-Oct-2019 03:01:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[24-Oct-2019 16:54:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[24-Oct-2019 16:54:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[25-Oct-2019 15:27:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[25-Oct-2019 15:27:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[25-Oct-2019 22:15:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[25-Oct-2019 22:15:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Oct-2019 00:01:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Oct-2019 00:01:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Oct-2019 00:01:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Oct-2019 00:01:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[01-Nov-2019 19:01:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[01-Nov-2019 19:01:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Nov-2019 16:38:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Nov-2019 16:38:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Nov-2019 16:52:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Nov-2019 16:52:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Nov-2019 20:58:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Nov-2019 20:58:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Nov-2019 03:49:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Nov-2019 03:49:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Nov-2019 16:40:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Nov-2019 16:40:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Nov-2019 16:19:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Nov-2019 16:19:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Nov-2019 16:20:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Nov-2019 16:20:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Nov-2019 20:42:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Nov-2019 20:42:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Nov-2019 23:29:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Nov-2019 23:29:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Nov-2019 23:30:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Nov-2019 23:30:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[14-Nov-2019 20:19:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[14-Nov-2019 20:19:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[15-Nov-2019 19:47:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[15-Nov-2019 19:47:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Nov-2019 18:05:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'mysql3001.mochahost.com' (111) in /home/abecode/pontechucho.com/cel/conexion.php on line 8
+[20-Nov-2019 18:05:50 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Nov-2019 18:05:50 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Nov-2019 18:05:50 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/abecode/pontechucho.com/cel/registro.php on line 52
+[20-Nov-2019 18:05:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/abecode/pontechucho.com/cel/registro.php on line 69
+[20-Nov-2019 18:05:50 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/abecode/pontechucho.com/cel/registro.php on line 72
+[20-Nov-2019 21:04:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Nov-2019 21:04:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Nov-2019 17:53:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Nov-2019 17:53:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[30-Nov-2019 02:20:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[30-Nov-2019 02:20:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[30-Nov-2019 15:45:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[30-Nov-2019 15:45:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[01-Dec-2019 17:17:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[01-Dec-2019 17:17:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[01-Dec-2019 17:28:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[01-Dec-2019 17:28:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Dec-2019 16:57:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Dec-2019 16:57:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Dec-2019 21:43:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Dec-2019 21:43:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[31-Dec-2019 02:04:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[31-Dec-2019 02:04:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[07-Jan-2020 17:15:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Jan-2020 17:15:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[07-Jan-2020 17:16:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Jan-2020 17:16:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[11-Jan-2020 23:06:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Jan-2020 23:06:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Jan-2020 07:35:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Jan-2020 07:35:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Jan-2020 17:15:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Jan-2020 17:15:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[15-Jan-2020 14:27:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[15-Jan-2020 14:27:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[15-Jan-2020 14:28:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[15-Jan-2020 14:28:32 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Jan-2020 04:48:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-Jan-2020 04:48:10 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Jan-2020 04:48:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-Jan-2020 04:48:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[24-Jan-2020 23:39:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[24-Jan-2020 23:39:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[29-Jan-2020 17:47:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[29-Jan-2020 17:47:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[31-Jan-2020 17:01:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[31-Jan-2020 17:01:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[31-Jan-2020 18:56:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[31-Jan-2020 18:56:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[31-Jan-2020 18:56:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[31-Jan-2020 18:56:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[31-Jan-2020 19:22:50 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[31-Jan-2020 19:22:50 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[31-Jan-2020 19:23:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[31-Jan-2020 19:23:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Feb-2020 04:38:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Feb-2020 04:38:24 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Feb-2020 22:39:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Feb-2020 22:39:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 03:51:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 03:51:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 03:58:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 03:58:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 03:59:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 03:59:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 03:59:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 03:59:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 13:31:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 13:31:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 15:31:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 15:31:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 15:32:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 15:32:09 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[03-Feb-2020 15:32:09 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[03-Feb-2020 15:32:09 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[03-Feb-2020 15:32:09 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[03-Feb-2020 15:32:09 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[03-Feb-2020 15:32:09 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[03-Feb-2020 15:32:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 17:53:50 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 17:53:50 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 19:25:50 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 19:25:50 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 19:26:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[03-Feb-2020 19:26:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 19:26:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[03-Feb-2020 19:26:38 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[03-Feb-2020 19:26:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 19:32:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 19:32:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 19:34:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 19:34:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 20:04:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 20:04:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 20:04:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 20:04:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Feb-2020 22:50:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Feb-2020 22:50:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-Feb-2020 02:07:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Feb-2020 02:07:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-Feb-2020 19:02:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Feb-2020 19:02:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[06-Feb-2020 00:17:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[06-Feb-2020 00:17:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[06-Feb-2020 04:29:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[06-Feb-2020 04:29:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[07-Feb-2020 19:23:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Feb-2020 19:23:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[08-Feb-2020 16:29:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[08-Feb-2020 16:29:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[08-Feb-2020 17:25:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[08-Feb-2020 17:25:27 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[08-Feb-2020 21:59:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[08-Feb-2020 21:59:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[11-Feb-2020 16:14:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Feb-2020 16:14:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Feb-2020 18:58:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Feb-2020 18:58:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Feb-2020 18:58:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Feb-2020 18:58:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Feb-2020 19:03:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[13-Feb-2020 19:03:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Feb-2020 19:03:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[13-Feb-2020 19:03:03 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[13-Feb-2020 19:03:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[15-Feb-2020 23:20:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[15-Feb-2020 23:20:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Feb-2020 00:07:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Feb-2020 00:07:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Feb-2020 16:01:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Feb-2020 16:01:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Feb-2020 16:28:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Feb-2020 16:28:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Feb-2020 16:42:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Feb-2020 16:42:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Feb-2020 16:43:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Feb-2020 16:43:00 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Feb-2020 17:15:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Feb-2020 17:15:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Feb-2020 17:52:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Feb-2020 17:52:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Feb-2020 18:23:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Feb-2020 18:23:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Feb-2020 18:59:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Feb-2020 18:59:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Feb-2020 19:19:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Feb-2020 19:19:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Feb-2020 17:35:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Feb-2020 17:35:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Feb-2020 19:06:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Feb-2020 19:06:16 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[18-Feb-2020 19:06:16 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[18-Feb-2020 19:06:16 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[18-Feb-2020 19:06:16 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[18-Feb-2020 19:06:16 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[18-Feb-2020 19:06:16 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[18-Feb-2020 19:06:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Feb-2020 16:00:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Feb-2020 16:00:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Feb-2020 15:27:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-Feb-2020 15:27:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[25-Feb-2020 04:59:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[25-Feb-2020 04:59:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[27-Feb-2020 01:55:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[27-Feb-2020 01:55:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[27-Feb-2020 01:56:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[27-Feb-2020 01:56:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[27-Feb-2020 14:43:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[27-Feb-2020 14:43:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[29-Feb-2020 12:56:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[29-Feb-2020 12:56:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[04-Mar-2020 19:14:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[04-Mar-2020 19:14:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[04-Mar-2020 20:39:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[04-Mar-2020 20:39:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-Mar-2020 01:25:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Mar-2020 01:25:45 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[07-Mar-2020 05:46:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Mar-2020 05:46:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[07-Mar-2020 05:46:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[07-Mar-2020 05:46:47 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Mar-2020 11:50:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Mar-2020 11:50:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Mar-2020 21:03:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Mar-2020 21:03:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Mar-2020 22:51:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Mar-2020 22:51:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Mar-2020 22:51:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Mar-2020 22:51:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[11-Mar-2020 19:35:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Mar-2020 19:35:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Mar-2020 01:10:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Mar-2020 01:10:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Mar-2020 01:46:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Mar-2020 01:46:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Mar-2020 03:30:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Mar-2020 03:30:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Mar-2020 03:32:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Mar-2020 03:32:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Mar-2020 03:34:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Mar-2020 03:34:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Mar-2020 03:34:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Mar-2020 03:34:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Mar-2020 03:34:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Mar-2020 03:34:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Mar-2020 03:34:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Mar-2020 03:34:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[14-Mar-2020 17:51:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[14-Mar-2020 17:51:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[14-Mar-2020 18:08:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[14-Mar-2020 18:08:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Mar-2020 06:56:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Mar-2020 06:56:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[22-Mar-2020 14:28:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[22-Mar-2020 14:28:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[22-Mar-2020 14:28:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[22-Mar-2020 14:28:43 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[23-Mar-2020 03:40:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[23-Mar-2020 03:40:22 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[26-Mar-2020 00:09:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[26-Mar-2020 00:09:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[26-Mar-2020 00:10:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[26-Mar-2020 00:10:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[27-Mar-2020 19:34:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[27-Mar-2020 19:34:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[29-Mar-2020 05:55:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[29-Mar-2020 05:55:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[08-Apr-2020 21:16:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[08-Apr-2020 21:16:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Apr-2020 02:18:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Apr-2020 02:18:34 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Apr-2020 03:20:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Apr-2020 03:20:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[11-Apr-2020 10:06:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Apr-2020 10:06:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[25-Apr-2020 22:11:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[25-Apr-2020 22:11:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[25-Apr-2020 22:12:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[25-Apr-2020 22:12:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Apr-2020 16:17:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Apr-2020 16:17:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Apr-2020 16:17:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Apr-2020 16:17:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[29-Apr-2020 22:04:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[29-Apr-2020 22:04:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-May-2020 15:04:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-May-2020 15:04:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[19-May-2020 17:39:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[19-May-2020 17:39:09 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-May-2020 17:30:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-May-2020 17:30:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-May-2020 19:39:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-May-2020 19:39:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[22-May-2020 14:38:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[22-May-2020 14:38:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-May-2020 23:15:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-May-2020 23:15:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Jun-2020 18:49:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Jun-2020 18:49:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[13-Jun-2020 02:17:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[13-Jun-2020 02:17:46 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Jun-2020 23:45:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Jun-2020 23:45:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Jun-2020 02:02:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Jun-2020 02:02:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Jun-2020 02:02:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Jun-2020 02:02:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Jun-2020 18:34:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Jun-2020 18:34:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Jun-2020 20:55:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Jun-2020 20:55:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[26-Jun-2020 22:55:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[26-Jun-2020 22:55:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[08-Jul-2020 22:39:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[08-Jul-2020 22:39:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Jul-2020 01:31:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Jul-2020 01:31:48 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Jul-2020 01:33:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Jul-2020 01:33:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Jul-2020 20:09:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Jul-2020 20:09:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Jul-2020 04:12:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Jul-2020 04:12:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Jul-2020 14:15:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Jul-2020 14:15:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Jul-2020 17:55:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Jul-2020 17:55:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Jul-2020 15:39:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Jul-2020 15:39:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[04-Aug-2020 22:47:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[04-Aug-2020 22:47:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[08-Aug-2020 03:46:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[08-Aug-2020 03:46:56 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[08-Aug-2020 03:47:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[08-Aug-2020 03:47:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Aug-2020 04:54:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Aug-2020 04:54:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Aug-2020 14:51:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Aug-2020 14:51:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Aug-2020 17:18:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Aug-2020 17:18:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[29-Aug-2020 15:54:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[29-Aug-2020 15:54:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[29-Aug-2020 15:56:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[29-Aug-2020 15:56:12 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Sep-2020 13:17:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Sep-2020 13:17:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Sep-2020 13:17:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Sep-2020 13:17:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Sep-2020 21:10:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Sep-2020 21:10:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Sep-2020 00:20:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Sep-2020 00:20:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Sep-2020 03:57:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Sep-2020 03:57:11 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[23-Sep-2020 16:30:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[23-Sep-2020 16:30:29 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[05-Oct-2020 14:13:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[05-Oct-2020 14:13:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[08-Oct-2020 17:35:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[08-Oct-2020 17:35:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[11-Oct-2020 08:19:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[11-Oct-2020 08:19:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[12-Oct-2020 18:17:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[12-Oct-2020 18:17:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Oct-2020 02:24:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Oct-2020 02:24:02 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Oct-2020 02:24:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[18-Oct-2020 02:24:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Oct-2020 02:24:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[18-Oct-2020 02:24:33 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[18-Oct-2020 02:24:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Oct-2020 03:12:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Oct-2020 03:12:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Oct-2020 20:40:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Oct-2020 20:40:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Oct-2020 04:00:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-Oct-2020 04:00:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Oct-2020 04:00:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-Oct-2020 04:00:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-Oct-2020 04:00:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Oct-2020 04:00:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Oct-2020 03:43:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Oct-2020 03:43:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Oct-2020 17:24:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Oct-2020 17:24:28 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Oct-2020 17:47:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Oct-2020 17:47:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Oct-2020 18:29:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Oct-2020 18:29:51 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Oct-2020 18:46:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Oct-2020 18:46:06 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[29-Oct-2020 01:49:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[29-Oct-2020 01:49:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[06-Nov-2020 21:02:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[06-Nov-2020 21:02:53 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Nov-2020 14:24:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Nov-2020 14:24:01 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Nov-2020 19:04:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Nov-2020 19:04:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Nov-2020 19:04:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Nov-2020 19:04:41 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[10-Nov-2020 19:04:41 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[10-Nov-2020 19:04:41 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[10-Nov-2020 19:04:41 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[10-Nov-2020 19:04:41 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[10-Nov-2020 19:04:41 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[10-Nov-2020 19:04:41 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Nov-2020 19:04:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Nov-2020 19:04:42 UTC] PHP Notice:  Undefined index: nombre in /home/abecode/pontechucho.com/cel/registro.php on line 40
+[10-Nov-2020 19:04:42 UTC] PHP Notice:  Undefined index: email in /home/abecode/pontechucho.com/cel/registro.php on line 41
+[10-Nov-2020 19:04:42 UTC] PHP Notice:  Undefined index: telefono in /home/abecode/pontechucho.com/cel/registro.php on line 42
+[10-Nov-2020 19:04:42 UTC] PHP Notice:  Undefined index: dia in /home/abecode/pontechucho.com/cel/registro.php on line 43
+[10-Nov-2020 19:04:42 UTC] PHP Notice:  Undefined index: mes in /home/abecode/pontechucho.com/cel/registro.php on line 44
+[10-Nov-2020 19:04:42 UTC] PHP Notice:  Undefined index: anio in /home/abecode/pontechucho.com/cel/registro.php on line 45
+[10-Nov-2020 19:04:42 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[17-Nov-2020 21:45:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[17-Nov-2020 21:45:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[18-Nov-2020 14:12:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[18-Nov-2020 14:12:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Nov-2020 21:28:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'mysql3001.mochahost.com' (111) in /home/abecode/pontechucho.com/cel/conexion.php on line 8
+[21-Nov-2020 21:28:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-Nov-2020 21:28:19 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Nov-2020 21:28:19 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/abecode/pontechucho.com/cel/registro.php on line 52
+[21-Nov-2020 21:28:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/abecode/pontechucho.com/cel/registro.php on line 69
+[21-Nov-2020 21:28:19 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/abecode/pontechucho.com/cel/registro.php on line 72
+[21-Nov-2020 21:29:55 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on 'mysql3001.mochahost.com' (111) in /home/abecode/pontechucho.com/cel/conexion.php on line 8
+[21-Nov-2020 21:29:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[21-Nov-2020 21:29:55 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[21-Nov-2020 21:29:55 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/abecode/pontechucho.com/cel/registro.php on line 52
+[21-Nov-2020 21:29:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/abecode/pontechucho.com/cel/registro.php on line 69
+[21-Nov-2020 21:29:55 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/abecode/pontechucho.com/cel/registro.php on line 72
+[23-Nov-2020 19:27:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[23-Nov-2020 19:27:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[27-Nov-2020 05:22:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[27-Nov-2020 05:22:25 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[30-Nov-2020 20:55:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[30-Nov-2020 20:55:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[30-Nov-2020 20:58:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[30-Nov-2020 20:58:03 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[03-Dec-2020 04:26:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[03-Dec-2020 04:26:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[16-Dec-2020 00:13:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[16-Dec-2020 00:13:58 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Dec-2020 05:26:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Dec-2020 05:26:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Dec-2020 00:07:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Dec-2020 00:07:44 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[19-Jan-2021 05:39:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[19-Jan-2021 05:39:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[19-Jan-2021 05:40:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[19-Jan-2021 05:40:31 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[19-Jan-2021 19:22:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[19-Jan-2021 19:22:21 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Jan-2021 21:50:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Jan-2021 21:50:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[28-Jan-2021 21:51:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[28-Jan-2021 21:51:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[01-Feb-2021 16:16:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[01-Feb-2021 16:16:04 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Feb-2021 00:47:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Feb-2021 00:47:15 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[25-Feb-2021 00:48:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[25-Feb-2021 00:48:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Mar-2021 18:07:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Mar-2021 18:07:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[02-Mar-2021 20:11:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[02-Mar-2021 20:11:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[06-Mar-2021 18:44:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[06-Mar-2021 18:44:54 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[09-Mar-2021 16:02:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[09-Mar-2021 16:02:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Mar-2021 04:53:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Mar-2021 04:53:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Mar-2021 17:58:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Mar-2021 17:58:16 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[10-Mar-2021 17:59:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[10-Mar-2021 17:59:35 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[14-Mar-2021 22:02:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[14-Mar-2021 22:02:57 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Mar-2021 04:44:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Mar-2021 04:44:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
+[20-Mar-2021 13:40:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/conexion.php on line 10
+[20-Mar-2021 13:40:07 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/abecode/pontechucho.com/cel/registro.php on line 51
